@@ -1,6 +1,6 @@
 module.exports = function (element) {
 
-  element.prototype.text = (value) {
+  element.prototype.text = function (value) {
     var el = this.el;
     
     if (value == null) {
