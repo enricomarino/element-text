@@ -1,0 +1,11 @@
+{
+  "name": "element-text",
+  "repo": "enricomarino/element-text",
+  "description": "text, plugin for element",
+  "version": "0.0.1",
+  "keywords": ["element", "text"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
