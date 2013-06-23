@@ -1,10 +1,17 @@
 # element-text
 
-text, plugin for element
+Text, plugin for element.
 
 ## Installation
 
     $ component install enricomarino/element-text
+
+## API
+
+### Element#text([value:String]): String
+
+Get/set the text of this element.  
+Return the text of this element.
 
 ## License
 
