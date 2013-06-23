@@ -10,5 +10,6 @@ module.exports = function (element) {
     return el.textContent && (el.textContent = value)
       || (el.innerText = value);
   };
-
+  
+  return element;
 };
